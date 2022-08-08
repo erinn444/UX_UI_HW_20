@@ -1,0 +1,171 @@
+.body { 
+    font-family: 'Comfortaa', cursive;
+}
+
+p { 
+    width: 85%;
+}
+
+.nav a { 
+    color: black;
+}
+
+.jumbotron { 
+    display: flex;
+    flex-direction: row;
+    background-color: #f8d6c5;
+    
+}
+
+.text-container { 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    
+    padding: 40px;
+    max-height: 500px;
+}
+
+.text-container h1 { 
+    font-size: 100px;
+    width: 120%;
+}
+
+.text-container p { 
+    font-size: 30px;
+    width: 180%;
+}
+
+
+.image-container { 
+    display: flex;
+    justify-content: center;
+
+    
+    max-height: 500px;
+}
+
+
+.image-container img { 
+    height: 100%;
+    transform: translate(150px,0);
+    
+    
+}
+
+.container { 
+    padding: 40px;
+}
+
+.container-2 { 
+    padding: 40px;
+    
+}
+
+.research h1 { 
+    margin-left: 40px;
+}
+
+
+.research p { 
+    margin-left: 40px;
+}
+
+.proto-persona { 
+    padding: 40px;
+    
+}
+
+.proto-persona img { 
+    height: 300px;
+    width: 300px;
+}
+
+
+
+.andi {
+display: flex;
+    justify-content: center;
+    
+    
+}
+
+.survey { 
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.survey img { 
+    padding: 40px;
+    width: 70%;
+}
+
+.container-3 { 
+    padding: 40px;
+}
+
+
+.container-3 img { 
+height: 200px;
+}
+
+.problem { 
+    background-color: #f8d6c5;
+    height: 500px;
+}
+
+.problem h3 { 
+    padding: 40px;
+}
+
+.problem p { 
+    padding: 80px;
+   margin-left: 80px;
+    width: 85%;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 200%;
+
+}
+
+.testing { 
+    padding: 40px;
+}
+
+.container-test img { 
+    height: 40%;
+    border: 2px solid green;
+}
+
+.final { 
+    margin-left: 40px;
+    padding-top: 40px;
+}
+
+.final img { 
+    height: 500px;
+    padding-top: 40px;
+   margin-left: 250px;
+}
+
+.final h4{ 
+    padding-top: 80px;
+   
+}
+
+.final ul { 
+    padding-bottom: 40px;
+}
+
+.footer { 
+    background-color: #f8d6c5;
+    padding: 40px;
+}
+
+.footer a:hover { 
+    color: white;
+}
+
